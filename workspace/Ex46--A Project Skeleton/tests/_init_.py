@@ -1,0 +1,1 @@
+print("this is _init_.py for tests")
